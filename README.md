@@ -11,8 +11,7 @@ npm install
 # serve with hot reload at localhost:8081
 react-native run-android or react-native run-ios
 ```
-
-##License
+## License
 ```
 Copyright [yyyy] [name of copyright owner]
 
